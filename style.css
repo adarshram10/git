@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+
+.nav{
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 0px;
+}
+p{
+    font-size: 30px;
+}
